@@ -1,5 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import "babel-polyfill"
+
 
 import Xiaojiejie from './Xiaojiejie';
 import reportWebVitals from './reportWebVitals';
